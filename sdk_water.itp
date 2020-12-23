@@ -1,0 +1,7 @@
+[ moleculetype ] 
+; name      nrexcl (nr exclusions)
+  SOL       1
+  
+[ atoms ]
+;nr    attype    resnr.    resname     atname    chrg.gr.    charge    mass
+ 1     SDKW      1         SOL         W25       1            0
