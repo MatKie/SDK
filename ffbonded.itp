@@ -1,0 +1,8 @@
+[ bondtypes ]
+;   ai        aj        funct    b0        k_b        ; Ref
+    CM       CM         1        0.41840   5542.11
+
+
+[ angletypes ] 
+;   ai        aj        ak       funct   angle    Kangle       ;Ref
+    CM       CM       CM         1       159      19.27
