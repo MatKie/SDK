@@ -1,0 +1,18 @@
+
+[ moleculetype ]
+; molname	nrexcl
+NA 		1
+
+[ atoms ]
+; id	at type	res nr 	residu name	at name	 cg nr	charge   mass
+1	sdkSOD	1	NA 		NA 	 1	1.0      22.9898
+
+
+[ moleculetype ]
+; molname	nrexcl
+CL 		1
+
+[ atoms ]
+; id	at type	res nr 	residu name	at name  cg nr	charge   mass
+1	sdkCLA	1	CL 		CL 	 1	-1.0     35.453
+
