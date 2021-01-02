@@ -1,8 +1,12 @@
 [ bondtypes ]
 ;   ai        aj        funct    b0        k_b        ; Ref
-    sdkCM    sdkCM         1        0.41840   5542.11
+    sdkCM    sdkCM      1        0.364     5154.69
+    sdkCM    sdkCT      1        0.365     5154.69
+    sdkCM    sdkSO4     1        0.363     9204.8
 
 
 [ angletypes ] 
 ;   ai        aj        ak       funct   angle    Kangle       ;Ref
-    sdkCM       sdkCM       sdkCM         1       159      19.27
+    sdkCM       sdkCM       sdkCM         1       173     9.958
+    sdkCM       sdkCM       sdkCT         1       175     9.958
+    sdkCM       sdkCM       sdkSO4        1       178     9.205
