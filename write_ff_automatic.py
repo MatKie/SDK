@@ -6,11 +6,11 @@ in_file = 'spica_par.json'
 
 species = {
            'W': {'weight': 54.045, 'at_num': 30},
-           'SOD': {'weight': 54.045, 'at_num': 30},
-           'CLA': {'weight': 54.045, 'at_num': 30},
-           'SO4': {'weight': 54.045, 'at_num': 30},
-           'CM': {'weight': 54.045, 'at_num': 30},
-           'CT': {'weight': 54.045, 'at_num': 30}
+           'SOD': {'weight': 77.0335, 'at_num': 41},
+           'CLA': {'weight': 71.483, 'at_num': 37},
+           'SO4': {'weight': 96.06, 'at_num': 48},
+           'CM': {'weight': 42.07914, 'at_num': 24},
+           'CT': {'weight': 43.07914, 'at_num': 25}
           }
 
 def K(kcal): 
